@@ -1,0 +1,12 @@
+name: kinconfbench-analyzer
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - biopython
+  - openstructure
+  - pip

@@ -1,0 +1,1 @@
+nohup python ../../kinase_pipeline/main_pipeline.py -f kinase_pdb_ids.txt -o step_2_pdb_kinase_metadata.csv
