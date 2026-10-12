@@ -2,7 +2,7 @@
 
 # KinConfBench: A curated benchmark for cofolding models on kinase conformational states
 
-[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.64898%2F2026.04.07.716788v1-cf2228?style=flat&logo=biorxiv&logoColor=white)](https://www.biorxiv.org/content/10.64898/2026.04.07.716788v1)
+[![npj Drug Discovery](https://img.shields.io/badge/npj%20Drug%20Discovery-10.1038%2Fs44386--026--00068--z-cf2228?style=flat)](https://www.nature.com/articles/s44386-026-00068-z)
 [![Figshare](https://img.shields.io/badge/figshare-inference%20data-556472?style=flat&logo=figshare&logoColor=white)](https://doi.org/10.6084/m9.figshare.31986663)
 [![License](https://img.shields.io/badge/License-UC%20Regents-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
